@@ -22,6 +22,17 @@ Kotlin is a programming language that can run on JVM. Google has announced Kotli
 #### 6. Android Studio
 Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems.
 
+### Screenshots
+
+#### + Home Screen
+<img src="https://github.com/smartinternz02/SPSGP-72595-Virtual-Internship---Android-Application-Development-Using-Kotlin/raw/main/ss/1.jpeg"  width=30% height=5%>
+
+#### + Addition of new item
+<img src="https://github.com/smartinternz02/SPSGP-72595-Virtual-Internship---Android-Application-Development-Using-Kotlin/raw/main/ss/3.jpeg"  width=30% height=5%> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/smartinternz02/SPSGP-72595-Virtual-Internship---Android-Application-Development-Using-Kotlin/raw/main/ss/2.jpeg"  width=30% height=5%>
+
+#### + Deletion of item
+<img src="https://github.com/smartinternz02/SPSGP-72595-Virtual-Internship---Android-Application-Development-Using-Kotlin/raw/main/ss/4.jpeg"  width=30% height=5%>
+
 ### Conclusion
 As they say it is imperative that we move along with time, move along with the trend and try to make the world a better and efficient place to live in. As the years go by there will be many more grocery applications and the real grocery stores might eventually shut down. If you look at it these applications save a lot of time, they save a lot of energy and
 they do even save some money. This is the future of Online Shopping. Our aim was to develop an user friendly application.
